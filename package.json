@@ -1,0 +1,23 @@
+{
+  "name": "Elmenus",
+  "version": "0.0.1",
+  "description": "Project for Building an Interface with React and Semantic UI",
+  "author": "Abd El-Rahman El-Sayed Soliman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdelrahmanlifestyle/Elmenus.git"
+  },
+  "devDependencies": {
+    "babel-install": "2.1.0",
+    "gulp": "^3.8.8",
+    "gulp-browserify": "^0.5.1",
+    "gulp-react": "^3.1.0",
+    "gulp-webserver": "^0.8.8",
+    "jshint-stylish": "^1.0.0",
+    "jsx-html-class": "^1.0.3",
+    "lodash": "^4.13.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "reactify": "^1.1.1"
+  }
+}
