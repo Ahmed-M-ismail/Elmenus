@@ -2,17 +2,18 @@
 
 # Building an Interface with React and Semantic-UI
 
-<h1> Elmenus Task</h1>
+<h2> Elmenus Task</h2>
 
 This web application is a demo for elmenus.com using sematic-ui and react.
 
 
-Login information:- 
+<h4>Login information:- </h4>
 
 username : user
 
 password : 123
 
+<hr />
 
 This app uses static login and have 2 main categories and sub categories for each, the admin should be able to delete from the view any sub category.
 
